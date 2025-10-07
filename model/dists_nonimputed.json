@@ -1,0 +1,18 @@
+{
+    "CD24": {
+	"Pexpr": 0.9624,
+	"Non_zero_dist":  "weibull", 
+	"Params": {
+	    "shape": 4.7022,
+	    "scale": 3.0122
+	}
+    },
+    "CD63": {
+	"Pexpr": 0.8417,
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 3.4901,
+	    "scale": 1.8912
+	}
+    }
+}

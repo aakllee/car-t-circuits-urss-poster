@@ -1,0 +1,58 @@
+{
+    "CD24_CID44971": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 5.1506,
+	    "scale": 3.0021
+	}
+    },
+    "CD63_CID44971": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 3.4901,
+	    "scale": 1.912
+	}
+    },
+    "CD24_CID4495": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 9.2509,
+	    "scale": 4.6279
+	}
+    },
+    "EPCAM_CID4495": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 10.0678,
+	    "scale": 4.7036
+	}
+    },
+    "BST2_CID4066": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 6.5456,
+	    "scale": 2.9442
+	}
+    },
+    "CD24_CID4066": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 6.3419,
+	    "scale": 2.9378
+	}
+    },
+    "BST2_CID3963": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 5.6196,
+	    "scale": 2.2905
+	}
+    },
+    "CD74_CID3963": {
+	"Non_zero_dist": "weibull",
+	"Params": {
+	    "shape": 5.364,
+	    "scale": 2.2529
+	}
+    }
+}
